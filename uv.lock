@@ -59,7 +59,7 @@ wheels = [
 ]
 
 [[package]]
-name = "dockq"
+name = "dockq-iso"
 version = "2.2"
 source = { editable = "." }
 dependencies = [
